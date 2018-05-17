@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">TA的风格</string>
+
+    <string name="theme_title">TA的风格图标包</string>
+    <string name="theme_name">TA的风格图标包</string>
+
+    <string name="theme_author">手机乐园@DEADALIVM</string>
+    <string name="developer_name">DEADALIVM</string>
+    <string name="developerName">DEADALIVM</string>
+    <string name="authorName">DEADALIVM</string>
+
+    <string name="authorLink">手机乐园@DEADALIVM</string>
+    <string name="developer_link">手机乐园@DEADALIVM/</string>
+
+    <string name="theme_description">没错，就是TA的风格，并规整一下</string>
+    <string name="theme_info">没错，就是TA的风格，并规整一下</string>
+    <string name="theme_ad_msg">没错，就是TA的风格，并规整一下</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.your.package.name</string>
+
+</resources>

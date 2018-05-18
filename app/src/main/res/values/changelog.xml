@@ -10,7 +10,7 @@
     * <u> for Underline -->
     <string-array name="changelog">
         <item>更新内容：</item>
-        <item>一些系统应用图标修改，适配功能暂时关闭，我要开始优化了</item>
+        <item>开启了适配功能，最多申请6个图标，另 图标包已开源</item>
         <item>建议图标尺寸设为120%，会更有感觉</item>
         <item>欢迎大家把任何不舒服的地方或建议告诉我</item>
         <item>一定尽力解决 倾听，让它更完美</item>

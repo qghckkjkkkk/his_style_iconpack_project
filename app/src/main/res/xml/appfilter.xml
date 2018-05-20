@@ -9662,4 +9662,58 @@
 	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
 	<!-- Google Play Newsstand -->
 	<item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_play_newsstand" />
+
+	<!-- 20180519 -->
+	<!--  Phone  -->
+	<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="sony_phone"/>
+	<!--  简报  -->
+	<item component="ComponentInfo{com.MyFusApp.jianbao/com.androlua.Welcome}" drawable="jianbao"/>
+	<!--  日历Mini  -->
+	<item component="ComponentInfo{top.soyask.calendarii/top.soyask.calendarii.MainActivity}" drawable="rilimini"/>
+	<!--  音乐键盘  -->
+	<item component="ComponentInfo{com.lyd.voicekey/com.lyd.voicekey.StrartMain}" drawable="yinyuejianpan"/>
+	<!--  EasyConnect  -->
+	<item component="ComponentInfo{com.sangfor.vpn.client.phone/com.sangfor.vpn.client.phone.WelcomeActivity}" drawable="easyconnect"/>
+	<!--  NOMO  -->
+	<item component="ComponentInfo{com.blink.academy.nomo/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}" drawable="nomo"/>
+
+	<!--  河图-岁寒输入法  -->
+	<item component="ComponentInfo{com.suihan.version4/version4.Droid.MainActivity}" drawable="hetusuihanshulufa"/>
+	<!--  买买买优惠券  -->
+	<item component="ComponentInfo{vip.x52gouwu.app.x41bkl/com.uzmap.pkg.EntranceActivity}" drawable="maimaimaiyouhuiquan"/>
+	<!--  Snap VPN  -->
+	<item component="ComponentInfo{free.vpn.unblock.proxy.vpnpro/com.quickdy.vpn.app.VpnMainActivity}" drawable="snap_vpnzise"/>
+
+	<!--  超级火车票  -->
+	<item component="ComponentInfo{info.startech.trainticket/info.startech.trainticket.activity.LaunchActivity}" drawable="chaojihuochepiaohonse"/>
+	<!--  手机惠农  -->
+	<item component="ComponentInfo{com.cctir.huinongbao/com.cctir.huinongbao.home.activity.WelcomeActivity}" drawable="shoujihuinong"/>
+	<!--  Habits  -->
+	<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habits"/>
+	<!--  一亩田  -->
+	<item component="ComponentInfo{com.ymt360.app.mass/com.ymt360.app.mass.activity.SplashActivity}" drawable="yimutian"/>
+	<!--  知否  -->
+	<item component="ComponentInfo{com.wl.zhihu.column.main/com.wl.zhihu.column.main.IndexActivity}" drawable="zhifou"/>
+	<!--  TA的风格  -->
+	<item component="ComponentInfo{com.hisstyle.emuitheme/com.hisstyle.emuitheme.start}" drawable="his_style"/>
+
+	<!--  輕鬆讀小說  -->
+	<item component="ComponentInfo{tw.clotai.easyreader/tw.clotai.easyreader.SplashActivityRect}" drawable="qinsonduxiaoshuo_qin"/>
+	<!--  Bubble  -->
+	<item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble"/>
+	<!--  GetVideo  -->
+	<item component="ComponentInfo{com.wuxianlin.getvideo/com.wuxianlin.getvideo.MainActivity}" drawable="anzuotonyonjiqiren"/>
+	<!--  nPlayer  -->
+	<item component="ComponentInfo{com.newin.nplayer.pro/com.newin.nplayer.activities.SplashActivity}" drawable="nplayer"/>
+	<!--  Pulsar+  -->
+	<item component="ComponentInfo{com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity}" drawable="pulsar_plus"/>
+
+	<!--  36氪  -->
+	<item component="ComponentInfo{com.android36kr.app/com.android36kr.app.ui.LogoActivity}" drawable="a36kr"/>
+	<!--  紐約時報  -->
+	<item component="ComponentInfo{com.nytimes.cn/com.nytimes.cn.MainActivity}" drawable="nytimes"/>
+	<!--  微光  -->
+	<item component="ComponentInfo{com.qingqi.dianbo/com.qingqi.dianbo.main.view.SplashActivity}" drawable="weiguang"/>
+	<!--  Hi VPN  -->
+	<item component="ComponentInfo{com.ehawk.proxy.freevpn/com.free.vpn.proxy.shortcut.SplashActivity}" drawable="hi_vpn"/>
 </resources>

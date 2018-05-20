@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <category title="0519"/>
+    <item drawable="bubble"/>
+    <item drawable="chaojihuochepiaohonse"/>
+    <item drawable="easyconnect"/>
+    <item drawable="habits"/>
+    <item drawable="hetusuihanshulufa"/>
+    <item drawable="hi_vpn"/>
+    <item drawable="jianbao"/>
+    <item drawable="maimaimaiyouhuiquan"/>
+    <item drawable="nomo"/>
+    <item drawable="nplayer"/>
+    <item drawable="nytimes"/>
+    <item drawable="pulsar_plus"/>
+    <item drawable="qinsonduxiaoshuo_qin"/>
+    <item drawable="rilimini"/>
+    <item drawable="shoujihuinong"/>
+    <item drawable="snap_vpnzise"/>
+    <item drawable="sony_phone"/>
+    <item drawable="weiguang"/>
+    <item drawable="yimutian"/>
+    <item drawable="yinyuejianpan"/>
+    <item drawable="zhifou"/>
+
     <category title="0424—"/>
     <item drawable="hicloud" />
     <item drawable="phone_finder" />
@@ -1723,7 +1746,6 @@
     <item drawable="shuijinkuangchang"/>
     <item drawable="six_pack"/>
     <item drawable="sleep_better"/>
-    <item drawable="smartisan_calendar"/>
     <item drawable="snailsleep"/>
     <item drawable="suishentianqi"/>
     <item drawable="sunfengsuyun"/>

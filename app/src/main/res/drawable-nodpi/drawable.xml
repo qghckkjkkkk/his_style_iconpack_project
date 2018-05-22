@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<version>1</version>
+
+	<category title="All Icons" />
+	<item drawable="cc_dingnet_yunfangp" />
+	<item drawable="cn_anjjie_elec_zxxy" />
+	<item drawable="cn_wq_myandroidtoolspro" />
+	<item drawable="co_vpnmelon_free_unblock_unlimited_turbo_proxy" />
+	<item drawable="com_adsafepro" />
+	<item drawable="com_atom_socks5" />
+	<item drawable="com_bandainamcoent_imas_millionlive_theaterdays" />
+	<item drawable="com_bilibili_fatego" />
+	<item drawable="com_cd_photo_animefilter" />
+	<item drawable="com_dfqs" />
+	<item drawable="com_duola_yunprint" />
+	<item drawable="com_easytech_ew5" />
+	<item drawable="com_fast_free_unblock_secure_vpn" />
+	<item drawable="com_gov_cn" />
+	<item drawable="com_huluxia_gametools" />
+	<item drawable="com_kwai_livepartner" />
+	<item drawable="com_lanjiyin_xiyikaoyan" />
+	<item drawable="com_mihoyo_bh3_bilibili" />
+	<item drawable="com_mokee_aegis" />
+	<item drawable="com_mokee_center" />
+	<item drawable="com_ncape_wht" />
+	<item drawable="com_netease_mc_nearme_gamecenter" />
+	<item drawable="com_picahealth_yunque" />
+	<item drawable="com_rarlab_rar" />
+	<item drawable="com_smartisanos_sara" />
+	<item drawable="com_sonymobile_assist" />
+	<item drawable="com_tencent_game_rhythmmaster" />
+	<item drawable="com_tencent_tmgp_jnbg2" />
+	<item drawable="com_ustwo_monumentvalleyzz" />
+	<item drawable="com_wifi_reader" />
+	<item drawable="com_wm_dmall" />
+	<item drawable="io_github_javiewer" />
+	<item drawable="jp_co_bandainamcoent_bnei0242" />
+	<item drawable="jp_co_craftegg_band" />
+	<item drawable="klb_android_lovelive" />
+	<item drawable="net_crigh_cgsport" />
+	<item drawable="org_getlantern_lantern" />
+	<item drawable="ru_yourok_m3u8loader" />
+</resources>

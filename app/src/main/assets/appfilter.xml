@@ -9776,4 +9776,45 @@
 	<item component="ComponentInfo{com.kingroot.kinguser/com.kingroot.kinguser.activitys.SliderMainActivity}" drawable="kingroot" />
 	<item component="ComponentInfo{ru.yourok.m3u8loader/ru.yourok.m3u8loader.MainActivity}" drawable="ru_yourok_m3u8loader"/>
 	<item component="ComponentInfo{cn.wq.myandroidtoolspro/cn.wq.myandroidtoolspro.MainActivity}" drawable="cn_wq_myandroidtoolspro"/>
+
+
+
+
+
+
+	<!--  20180717  -->
+	<item component="ComponentInfo{com.xiaoyaocz.bilidownload/md5879f498eb833af774e6fd3a4692326bc.MainActivity}" drawable="com_xiaoyaocz_bilidownload"/>
+	<item component="ComponentInfo{com.gesture.s/com.gesture.s.HomeActivity}" drawable="com_gesture_s"/>
+	<item component="ComponentInfo{com.june.game.doudizhu/com.june.game.doudizhu.activities.game.StartActivity}" drawable="com_june_game_doudizhu"/>
+	<item component="ComponentInfo{com.kiloo.subwaysurf.bd/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="com_kiloo_subwaysurf_bd"/>
+	<item component="ComponentInfo{www.xdsw.Aof/www.xdsw.war.MainActivity}" drawable="www_xdsw_aof"/>
+	<item component="ComponentInfo{com.smartisanos.recorder/com.smartisanos.recorder.activity.RecorderActivity}" drawable="sound_recorder" />
+	<item component="ComponentInfo{com.doudoubird.calendarsimple/com.doudoubird.calendarsimple.StartActivity}" drawable="com_doudoubird_calendarsimple"/>
+	<item component="ComponentInfo{com.leku.ustv/com.leku.ustv.activity.WelcomeActivity}" drawable="com_leku_ustv"/>
+	<item component="ComponentInfo{com.smartisanos.screenrecorder/com.smartisanos.screenrecorder.EmptyActivity}" drawable="com_smartisanos_screenrecorder"/>
+	<item component="ComponentInfo{com.smartisanos.handbook/com.smartisanos.handbook.activity.MainActivity}" drawable="com_smartisanos_handbook"/>
+	<item component="ComponentInfo{com.smartisanos.quicksearch/com.android.quicksearchbox.SearchActivity}" drawable="com_smartisanos_quicksearch"/>
+	<item component="ComponentInfo{com.specher.earplay/com.specher.earplay.MainActivity}" drawable="com_specher_earplay"/>
+	<item component="ComponentInfo{com.laopo.nanoiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="com_laopo_nanoiconpack_sample"/>
+	<item component="ComponentInfo{com.alee.nsd/com.alee.nsd.AleeActivity}" drawable="com_alee_nsd"/>
+	<item component="ComponentInfo{com.smartisanos.sidebar/com.smartisanos.sidebar.setting.SettingActivity}" drawable="com_smartisanos_sidebar"/>
+	<item component="ComponentInfo{com.chniccs.lock/com.chniccs.lock.LockActivity}" drawable="com_chniccs_lock"/>
+	<item component="ComponentInfo{com.charlotteprojects.onmyojinote/com.charlotteprojects.onmyojinote.MainActivity}" drawable="com_charlotteprojects_onmyojinote"/>
+	<item component="ComponentInfo{com.pocketgames.musiverse/com.aiwu.Splash}" drawable="com_pocketgames_musiverse"/>
+	<item component="ComponentInfo{com.smartisanos.handinhand/com.smartisanos.handinhand.activity.HomeActivity}" drawable="com_smartisanos_handinhand"/>
+	<item component="ComponentInfo{com.by_syk.coolappindex/com.by_syk.coolappindex.MainActivity}" drawable="com_by_syk_coolappindex"/>
+	<item component="ComponentInfo{com.gameloft.android.ANMP.GloftAGHM/com.gameloft.android.ANMP.GloftAGHM.MainActivity}" drawable="com_gameloft_android_anmp_gloftaghm"/>
+	<item component="ComponentInfo{com.king.candycrushsaga/com.aiwu.Splash}" drawable="candy_crush_saga" />
+	<item component="ComponentInfo{com.paprbit.dcoder/com.paprbit.dcoder.ui.activities.Splash}" drawable="com_paprbit_dcoder"/>
+	<item component="ComponentInfo{com.fgol.HungrySharkEvolution/com.aiwu.Splash}" drawable="com_fgol_hungrysharkevolution"/>
+	<item component="ComponentInfo{ru.playsoftware.j2meloader/ru.playsoftware.j2meloader.MainActivity}" drawable="j2memoniqi" />
+	<item component="ComponentInfo{ranjih.kotlinandroid/ranjih.kotlinandroid.view.activity.SplashActivity}" drawable="ranjih_kotlinandroid"/>
+	<item component="ComponentInfo{com.mobidia.android.beta_mdm/com.mobidia.android.mdm.client.common.activity.LauncherActivity}" drawable="com_mobidia_android_beta_mdm"/>
+	<item component="ComponentInfo{com.ea.game.pvzfree_row/com.aiwu.Splash}" drawable="com_ea_game_pvzfree_row"/>
+	<item component="ComponentInfo{khalsa1984.kotlin/khalsa1984.kotlinpro.WelcomeActivity}" drawable="khalsa1984_kotlin"/>
+	<item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="com_rhmsoft_edit"/>
+	<item component="ComponentInfo{com.quora.android/com.quora.android.LauncherActivity}" drawable="com_quora_android"/>
+	<item component="ComponentInfo{com.unofficial.smartisan.iconpack/com.unofficial.smartisan.iconpack.activities.SplashActivity}" drawable="com_unofficial_smartisan_iconpack"/>
+	<item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.wizard.GDPRWizardActivity}" drawable="speedtest_sudubiao" />
+	<item component="ComponentInfo{com.teeonsoft.ztorrentpro/com.teeonsoft.zdownload.MainActivity}" drawable="com_teeonsoft_ztorrentpro"/>
 </resources>

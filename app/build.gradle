@@ -16,8 +16,8 @@ android {
         applicationId "com.his.style.iconpack"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 20180520
-        versionName "5.5.8"
+        versionCode 55900000
+        versionName "5.5.9"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
 

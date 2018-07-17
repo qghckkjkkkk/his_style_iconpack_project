@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <category title="0520"/>
+    <category title="20180717" />
+    <item drawable="com_alee_nsd" />
+    <item drawable="com_by_syk_coolappindex" />
+    <item drawable="com_charlotteprojects_onmyojinote" />
+    <item drawable="com_chniccs_lock" />
+    <item drawable="com_doudoubird_calendarsimple" />
+    <item drawable="com_ea_game_pvzfree_row" />
+    <item drawable="com_fgol_hungrysharkevolution" />
+    <item drawable="com_gameloft_android_anmp_gloftaghm" />
+    <item drawable="com_gesture_s" />
+    <item drawable="com_june_game_doudizhu" />
+    <item drawable="com_kiloo_subwaysurf_bd" />
+    <item drawable="com_laopo_nanoiconpack_sample" />
+    <item drawable="com_leku_ustv" />
+    <item drawable="com_mobidia_android_beta_mdm" />
+    <item drawable="com_paprbit_dcoder" />
+    <item drawable="com_pocketgames_musiverse" />
+    <item drawable="com_quora_android" />
+    <item drawable="com_rhmsoft_edit" />
+    <item drawable="com_smartisanos_handbook" />
+    <item drawable="com_smartisanos_handinhand" />
+    <item drawable="com_smartisanos_quicksearch" />
+    <item drawable="com_smartisanos_screenrecorder" />
+    <item drawable="com_smartisanos_sidebar" />
+    <item drawable="com_specher_earplay" />
+    <item drawable="com_teeonsoft_ztorrentpro" />
+    <item drawable="com_unofficial_smartisan_iconpack" />
+    <item drawable="com_xiaoyaocz_bilidownload" />
+    <item drawable="khalsa1984_kotlin" />
+    <item drawable="ranjih_kotlinandroid" />
+    <item drawable="www_xdsw_aof" />
+    <category title="20180520"/>
     <item drawable="cc_dingnet_yunfangp"/>
     <item drawable="cn_anjjie_elec_zxxy"/>
     <item drawable="cn_wq_myandroidtoolspro"/>
@@ -40,7 +71,7 @@
     <item drawable="org_getlantern_lantern"/>
     <item drawable="ru_yourok_m3u8loader"/>
 
-    <category title="0519"/>
+    <category title="20180519"/>
     <item drawable="bubble"/>
     <item drawable="chaojihuochepiaohonse"/>
     <item drawable="easyconnect"/>
@@ -63,7 +94,7 @@
     <item drawable="yinyuejianpan"/>
     <item drawable="zhifou"/>
 
-    <category title="0424—"/>
+    <category title="20180424—"/>
     <item drawable="hicloud" />
     <item drawable="phone_finder" />
 
@@ -265,7 +296,8 @@
 
     <item drawable="google_play_books" />
     <item drawable="google_play_newsstand" />
-    <category title="0423"/>
+
+    <category title="20180423"/>
     <item drawable="android_p_ify"/>
     <item drawable="chucp"/>
     <item drawable="compass_yuanxin_cunse"/>
@@ -285,7 +317,7 @@
     <item drawable="wutaxiangji"/>
     <item drawable="xiaohuangjibiaoqinbao"/>
     <item drawable="xiaoyaojinmeihua"/>
-    <category title="0422"/>
+    <category title="20180422"/>
     <item drawable="aifengwan"/>
     <item drawable="aikecheng"/>
     <item drawable="brutal_street_2"/>
@@ -340,7 +372,8 @@
     <item drawable="vipliulanqi"/>
     <item drawable="wanba"/>
     <item drawable="xiqueer"/>
-    <category title="0421"/>
+
+    <category title="20180421"/>
     <item drawable="abook_hep"/>
     <item drawable="adguard"/>
     <item drawable="android_p_volume_slider"/>
@@ -4260,4 +4293,5 @@
     <item drawable="ok_golf"/>
     <item drawable="wangzeronyao"/>
     <item drawable="laytons_mystery_journey"/>
+
 </resources>
